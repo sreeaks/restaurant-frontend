@@ -32,7 +32,7 @@
     "eject": "react-scripts eject",
     "test": "react-scripts test --env=jsdom"
   },
-  "proxy": "https://restuarant-backend-1.onrender.com:10000",
+  "proxy": "https://restuarant-backend-1.onrender.com",
   "eslintConfig": {
     "extends": [
       "react-app",
